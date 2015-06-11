@@ -13,7 +13,7 @@ end
 # Create 3 arrays, 1. food adjectives, 2. food preparation 3. foods (aka rare animals)
 adj 	         = ["Melty", "Spicy", "Buttered", "Gourmet", "Fresh", "Hot", "Crunchy", "Sweet", "Savory", 
 			           "Marinated", "Chocolatey", "Flaming", "Creamy", "Polka-dotted", "Chunky"]
-prep 		       = ["pan-fried", "sauteed", "steamed", "roasted", "baked", "boiled", "broiled", "fried", 
+prep           = ["pan-fried", "sauteed", "steamed", "roasted", "baked", "boiled", "broiled", "fried", 
 			           "mashed", "breaded", "scorched", "barbecue", "slow-roasted", "braised", "chopped", "raw", 
 			           "sous vide", "poached"]
 rare_animals 	 = ["panda", "unicorn", "manatee", "wooly mammoth", "bald eagle", "gorilla", "emperor penguin", 
