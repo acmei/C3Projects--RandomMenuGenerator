@@ -4,7 +4,7 @@ print "How many menu items would you like to create? "
 
 menu_items = gets.chomp
 
-# Invalid input handling - no input, floats, or letters
+# Invalid input handling - no input or strings
 while menu_items == "" || menu_items.to_i == 0
   puts "Please type a valid number."
   menu_items = gets.chomp.to_i
